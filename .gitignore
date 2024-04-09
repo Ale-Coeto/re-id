@@ -1,0 +1,7 @@
+
+Crowd-Counting/cam1_cropped/*
+Crowd-Counting/cam2_cropped/*
+
+*.pth
+*.tar
+*/__pycache__/
