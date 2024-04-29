@@ -4,4 +4,12 @@ Crowd-Counting/cam2_cropped/*
 
 *.pth
 *.tar
-*/__pycache__/
+*.jpg
+*.mp4
+*.npy
+*.png
+*.yaml
+*.pickle
+*.pt
+./__pycache__/
+*.pyc
