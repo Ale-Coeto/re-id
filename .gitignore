@@ -13,3 +13,4 @@ Crowd-Counting/cam2_cropped/*
 *.pt
 ./__pycache__/
 *.pyc
+*.ipynb
